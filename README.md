@@ -12,13 +12,13 @@ Our approach involves a crawling process that mimics human navigation through Wi
 
 ### Dense Graph
 
-![Dense Graph](images/dense_graph.png)
+![Dense Graph](dense_graph.png)
 
 This image represents the dense graph, highlighting the closely knit connections achieved by selecting the next article from the first five links.
 
 ### Sparse Graph
 
-![Sparse Graph](images/sparse.png)
+![Sparse Graph](sparse.png)
 
 This image shows the sparse graph, illustrating the effect of broadening the selection threshold, leading to a graph with less dense connections.
 
